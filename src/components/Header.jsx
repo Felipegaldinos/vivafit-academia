@@ -33,7 +33,7 @@ const Header = () => {
             <a href="#location" onClick={(e) => handleNavClick(e, 'location')} className="text-light-gray hover:text-vibrant-orange transition-colors duration-300 font-semibold">Localização</a>
         </div>
         <button onClick={handleScheduleClick} className="cta-button hidden md:inline-block">
-          Agende sua Aula
+          Agende
         </button>
       </nav>
     </motion.header>
