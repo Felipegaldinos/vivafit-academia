@@ -9,7 +9,6 @@ const WhatsAppButton = () => {
     e.preventDefault();
     toast({
       title: 'Fale conosco no WhatsApp!',
-      description: '🚧 Esta funcionalidade ainda não foi implementada—mas você pode solicitar no próximo prompt! 🚀',
     });
   };
 
